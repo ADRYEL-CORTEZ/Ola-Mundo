@@ -1,2 +1,4 @@
-# Ola Mundo
+# Olá, Mundo!
 repositorio estudo 
+
+criado em 21/10/2026 durante uma live.
